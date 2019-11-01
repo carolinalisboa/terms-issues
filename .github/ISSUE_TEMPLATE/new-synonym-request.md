@@ -7,8 +7,8 @@ assignees: richardostler
 
 ---
 
-##Synonym name
+## Synonym name
 (please give the synonym name and language)
 
-##Concept URI
+## Concept URI
 (please provide the URI for the concept the synonym should be added to)
