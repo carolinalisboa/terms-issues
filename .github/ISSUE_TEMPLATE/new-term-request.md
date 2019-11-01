@@ -2,7 +2,7 @@
 name: New Term Request
 about: For requesting new terms
 title: ''
-labels: ''
+labels: new term request
 assignees: richardostler
 
 ---
