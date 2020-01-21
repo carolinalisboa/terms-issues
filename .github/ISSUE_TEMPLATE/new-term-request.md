@@ -1,14 +1,14 @@
 ---
-name: New Term Request
+name: crop management
 about: For requesting new terms
 title: ''
-labels: new term request
+labels: crop management
 assignees: richardostler
 
 ---
 
 # Preferred Name
-
+crop management
 # Alternative Name
 (Please specify any alternative names for the concept, specify the language if not English)
 
@@ -16,4 +16,4 @@ assignees: richardostler
 (Please provide a definition for the concept, including a link to a public article, e.g. wikipedia)
 
 # Existing URI
-(If the term exists in a public vocabulary such as AGROVOC, please state the vocabulary name and concept URI)
+(http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_16094)
